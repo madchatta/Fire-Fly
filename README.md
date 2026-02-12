@@ -5,7 +5,6 @@ stataion and multiple node- one for each raised bed
 ___
 
 ## Components
-___
 ### Main Station
 - Three dry contact relay boards
 - Three I2C shift registers
@@ -15,7 +14,6 @@ ___
 - One high low float level sensor
 - Enclosure
 - Mater manifold
-___
 ### Nodes
 - Esp32
 - Capacitive soil moisture sensor;
@@ -34,4 +32,4 @@ _ run
 ### node
 - setup
 - run
-
+___
