@@ -29,7 +29,7 @@ Each state has:
 ___
 ### main station
 -setup 
--run
+_run
 
 ### node
 -setup
