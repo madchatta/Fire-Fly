@@ -7,31 +7,31 @@ ___
 ## Components
 ___
 ### Main Station
--Three dry contact relay boards
--Three I2C shift registers
--SD card for logging nodes data
--3/8 water flow meter
--24 water pumps
--One high low float level sensor
--Enclosure
--Mater manifold
+- Three dry contact relay boards
+- Three I2C shift registers
+- SD card for logging nodes data
+- 3/8 water flow meter
+- 24 water pumps
+- One high low float level sensor
+- Enclosure
+- Mater manifold
 ___
 ### Nodes
--Esp32
--Capacitive soil moisture sensor;
+- Esp32
+- Capacitive soil moisture sensor;
 ___
 ## State
 Each state has:
--entry logic
--run logic
--exit logic
+- entry logic
+- run logic
+- exit logic
 
 ___
 ### main station
--setup 
-_run
+- setup 
+_ run
 
 ### node
--setup
--run
+- setup
+- run
 
