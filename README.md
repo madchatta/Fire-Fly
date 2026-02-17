@@ -1,7 +1,7 @@
 # Fire-Fly(in progress)
 ## Overview
 This is a personal project using esp32 to water my garden while im away. The system contains a central
-stataion and multiple node- one for each raised bed
+station and multiple nodes - one for each raised bed
 ___
 
 ## Components
