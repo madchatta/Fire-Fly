@@ -6,9 +6,9 @@ ___
 
 ## Components
 ### Main Station
-- Three dry contact relay boards
+- Three 8 slot  dry contact relay boards
 - Three I2C shift registers
-- SD card for logging nodes data
+- SD card for logging nodes data or spiff on node
 - 3/8 water flow meter
 - 24 water pumps
 - One high low float level sensor
