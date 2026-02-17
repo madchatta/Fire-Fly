@@ -1,0 +1,4 @@
+"#configuration .txt file\n"
+"name,Apples\n"
+"min,755\n"
+"max,2595\n"
